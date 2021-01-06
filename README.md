@@ -6,6 +6,8 @@ This is my very first own repository that not relate to my university's educatio
 
 I hope that my repository will make some inspiration or soem benefits for you.
 
+All code in this repository is use for Aduino IDE.
+
 # If you have problem with my project let me know or you can open the issue or contact me!
 
 This is my email skladee@hotmail.co.th
